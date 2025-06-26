@@ -1,0 +1,6 @@
+cd path/to/publer_autopublisher
+git init
+git remote add origin https://github.com/Patrick-EllipticLabs/publer-autopublisher.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
